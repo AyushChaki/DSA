@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
