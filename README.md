@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
 ## Two Pointers
@@ -31,4 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
