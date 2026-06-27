@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/AyushChaki/DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AyushChaki/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
