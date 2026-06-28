@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AyushChaki/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quickselect
 |  |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
