@@ -15,8 +15,7 @@ public:
         pq.push(val);
         if(pq.size()>size)
         pq.pop();
-        int l=pq.top();
-        return l;
+        return pq.top();;
 
     }
 };
