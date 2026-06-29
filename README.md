@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AyushChaki/DSA/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -42,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AyushChaki/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -56,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AyushChaki/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AyushChaki/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/AyushChaki/DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushChaki/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -103,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AyushChaki/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
