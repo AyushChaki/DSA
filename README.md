@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AyushChaki/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AyushChaki/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AyushChaki/DSA/tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
