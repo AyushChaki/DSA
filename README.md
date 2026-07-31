@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/AyushChaki/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/AyushChaki/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushChaki/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AyushChaki/DSA/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
