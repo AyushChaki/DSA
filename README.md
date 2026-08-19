@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AyushChaki/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushChaki/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AyushChaki/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AyushChaki/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -236,6 +238,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
