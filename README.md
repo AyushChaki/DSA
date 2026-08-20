@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/AyushChaki/DSA/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AyushChaki/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 ## String Matching
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 ## Dynamic Programming
 |  |
 | ------- |
