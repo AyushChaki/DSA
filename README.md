@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/AyushChaki/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/AyushChaki/DSA/tree/master/0739-daily-temperatures) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushChaki/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/AyushChaki/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AyushChaki/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Depth-First Search
 |  |
 | ------- |
