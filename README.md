@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/AyushChaki/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/AyushChaki/DSA/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/AyushChaki/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/AyushChaki/DSA/tree/master/1046-last-stone-weight) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0997-find-the-town-judge](https://github.com/AyushChaki/DSA/tree/master/0997-find-the-town-judge) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/AyushChaki/DSA/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
