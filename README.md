@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AyushChaki/DSA/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/AyushChaki/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushChaki/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AyushChaki/DSA/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AyushChaki/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushChaki/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AyushChaki/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AyushChaki/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
