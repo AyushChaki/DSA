@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AyushChaki/DSA/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/AyushChaki/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushChaki/DSA/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AyushChaki/DSA/tree/master/0136-single-number) |
@@ -204,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AyushChaki/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AyushChaki/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AyushChaki/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/AyushChaki/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AyushChaki/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/AyushChaki/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AyushChaki/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushChaki/DSA/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
