@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AyushChaki/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AyushChaki/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -284,10 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AyushChaki/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushChaki/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AyushChaki/DSA/tree/master/0046-permutations) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
