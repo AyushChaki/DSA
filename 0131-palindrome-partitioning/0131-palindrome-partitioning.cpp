@@ -1,12 +1,14 @@
 class Solution {
 public:
     vector<vector<string>> ans;
-    bool palindrome(string &s,int left,int right) {
-        if(left >= right)
-            return true;
-        if(s[left] != s[right])
-            return false;
-        return palindrome(s, left + 1, right - 1);
+    bool palindrome(string &s, int left, int right) {
+        while (left < right) {
+            if (s[left] != s[right])
+                return false;
+            left++;
+            right--;
+        }
+        return true;
     }
     void solve(string &s, int left, vector<string>& curr) {
         if (left == s.size()) {
