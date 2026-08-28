@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AyushChaki/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AyushChaki/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 ## Depth-First Search
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/AyushChaki/DSA/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushChaki/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/AyushChaki/DSA/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
