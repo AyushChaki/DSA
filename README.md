@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AyushChaki/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AyushChaki/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AyushChaki/DSA/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AyushChaki/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AyushChaki/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AyushChaki/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/AyushChaki/DSA/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushChaki/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AyushChaki/DSA/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AyushChaki/DSA/tree/master/0022-generate-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
