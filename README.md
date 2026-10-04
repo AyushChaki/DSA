@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/AyushChaki/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/AyushChaki/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/AyushChaki/DSA/tree/master/1046-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyushChaki/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/AyushChaki/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyushChaki/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyushChaki/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
