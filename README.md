@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AyushChaki/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AyushChaki/DSA/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/AyushChaki/DSA/tree/master/0473-matchsticks-to-square) |
+| [0485-max-consecutive-ones](https://github.com/AyushChaki/DSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/AyushChaki/DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/AyushChaki/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
