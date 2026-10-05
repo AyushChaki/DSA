@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushChaki/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/AyushChaki/DSA/tree/master/0997-find-the-town-judge) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushChaki/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AyushChaki/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushChaki/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0904-fruit-into-baskets](https://github.com/AyushChaki/DSA/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushChaki/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AyushChaki/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AyushChaki/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushChaki/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AyushChaki/DSA/tree/master/0953-verifying-an-alien-dictionary) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/AyushChaki/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Depth-First Search
 |  |
 | ------- |
