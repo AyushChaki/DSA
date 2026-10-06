@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AyushChaki/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AyushChaki/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AyushChaki/DSA/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushChaki/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AyushChaki/DSA/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushChaki/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/AyushChaki/DSA/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/AyushChaki/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/AyushChaki/DSA/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/AyushChaki/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushChaki/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AyushChaki/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AyushChaki/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AyushChaki/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AyushChaki/DSA/tree/master/0547-number-of-provinces) |
