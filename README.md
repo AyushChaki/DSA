@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AyushChaki/DSA/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushChaki/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AyushChaki/DSA/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AyushChaki/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushChaki/DSA/tree/master/0040-combination-sum-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AyushChaki/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/AyushChaki/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AyushChaki/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushChaki/DSA/tree/master/0349-intersection-of-two-arrays) |
